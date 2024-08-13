@@ -1,0 +1,25 @@
+{
+  "name": "poc-agi",
+  "version": "1.0.0",
+  "description": "Poc Blog Agibank",
+  "main": "index.js",
+  "scripts": {
+    "test-ui": "playwright test --ui",
+    "test-headless": "playwright test",
+    "test-debug": "playwright test --debug"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danxsouza/poc-agi.git"
+  },
+  "author": "Danilo Batista de Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danxsouza/poc-agi/issues"
+  },
+  "homepage": "https://github.com/danxsouza/poc-agi#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.46.0",
+    "@types/node": "^22.2.0"
+  }
+}
