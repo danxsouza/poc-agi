@@ -1,6 +1,6 @@
 Hi 👋🏽!
 
-Welcome to my poc course with  Playwright" by [Danilo Batista de Souza]
+Welcome to my poc where you navigate on the blog agi bank with Playwright" by [Danilo Batista de Souza]
 
 ## Dependencies
 
