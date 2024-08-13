@@ -19,12 +19,11 @@ To check the versions of git, Node.js and NPM installed on your computer, execut
 
 
 > Pre requirements: 
-- [Node setup](https://nodejs.dev/en/learn/how-to-install-nodejs/)
+- [Node setup](https://nodejs.org/en/download/package-manager)
 - [VS Code setup](https://code.visualstudio.com/learn/get-started/basics)
 - [Playwright setup](https://playwright.dev/)
 
 
-# Install the project
 
 On your terminal, type:
 
