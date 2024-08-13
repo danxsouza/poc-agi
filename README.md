@@ -24,7 +24,7 @@ To check the versions of git, Node.js and NPM installed on your computer, execut
 - [Playwright setup](https://playwright.dev/)
 
 
-# Instal the project
+# Install the project
 
 On your terminal, type:
 
