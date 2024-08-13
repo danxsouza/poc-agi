@@ -11,7 +11,7 @@ Welcome to my poc where you navigate on the blog agi bank with Playwright" by [D
 - VSCode 1.92.1 (Universal)
 - Or use another IDE do you prefer
 
-#Observation
+## Observation
 1. I recommend using the same versions, or newer versions of the systems mentioned above.
 2. When installing Node.js, NPM is installed automatically.
 To check the versions of git, Node.js and NPM installed on your computer, execute the git --version && node --verson && npm --version command line command on your command line terminal.
