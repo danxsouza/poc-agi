@@ -26,7 +26,7 @@ On your terminal, type:
 
 ___
 
-💡 Share on LinkedIn something interesting you've learned! Don't forget to tag me [Danilo Batista de Souza]((https://www.linkedin.com/in/danilo-batista-de-souza/)).
+💡 Share on LinkedIn something interesting you've learned! Don't forget to tag me [Danilo Batista de Souza](https://www.linkedin.com/in/danilo-batista-de-souza/).
 
  If you have questions, feel free to post them on [github](https://github.com/danxsouza/poc-agi).
 
