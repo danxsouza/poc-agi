@@ -1,4 +1,4 @@
-import { test } from '../myFixtures/testFixtures';
+import { test } from '../fixtures/testFixtures';
 
 function getRandom(array: string[]): string {
     return array[Math.floor(Math.random() * array.length)];
