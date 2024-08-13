@@ -31,20 +31,22 @@ On your terminal, type:
 This is an example of how to list things you need to use the software and how to install them.
 
 ## Clone repo
-1. `git clone https://github.com/github_username/repo_name.git`
-
+1. ```sh
+   git clone https://github.com/github_username/repo_name.git`
+   ```
 ## Install dependencies
-3. $ `npm i`
-   ```sh
+3. ```sh
    npm install
    ```
    
 ## Run the test with UI mode
-2. $ `npx playwright test --ui`
-
+2. ```sh
+   npx playwright test --ui
+   ```
 ## Run the test 
-3. $ `npx playwright test`
-
+3. ```sh
+    npx playwright test
+   ```
 
 ___
 
