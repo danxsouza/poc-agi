@@ -28,7 +28,16 @@ To check the versions of git, Node.js and NPM installed on your computer, execut
 On your terminal, type:
 
 ## install dependencies
-1. $ `npm i`
+This is an example of how to list things you need to use the software and how to install them.
+
+## Clone repo
+1. `git clone https://github.com/github_username/repo_name.git`
+
+## Install dependencies
+3. $ `npm i`
+   ```sh
+   npm install
+   ```
    
 ## Run the test with UI mode
 2. $ `npx playwright test --ui`
