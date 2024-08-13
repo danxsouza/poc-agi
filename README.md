@@ -31,7 +31,7 @@ On your terminal, type:
 
 ## Clone repo
 1. ```sh
-   git clone https://github.com/github_username/repo_name.git
+   https://github.com/danxsouza/poc-agi.git
    ```
 ## Install dependencies
 3. ```sh
